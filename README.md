@@ -4,8 +4,6 @@
   <img src="assets/banner.svg" alt="Hologram Apps" width="100%">
 </p>
 
-# Hologram Apps 🛍️
-
 <p align="center">
   <a href="../holo-os/index.html">Open the store</a> &nbsp;|&nbsp; <a href="apps/index.jsonld">Catalog</a> &nbsp;|&nbsp; <a href="apps/hub/">Hub</a> &nbsp;|&nbsp; <a href="../holo-os/README.md">Hologram OS</a> &nbsp;|&nbsp; <a href="https://discord.gg/ZwuZaNyuve">Community</a>
 </p>
