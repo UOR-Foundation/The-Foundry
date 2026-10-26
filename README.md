@@ -1,5 +1,21 @@
-# UOR Foundry
+<a id="top"></a>
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Hologram Apps" width="100%">
+</p>
+
+# Hologram Apps 🛍️
+
+<p align="center">
+  <a href="../holo-os/index.html">Open the store</a> &nbsp;|&nbsp; <a href="apps/index.jsonld">Catalog</a> &nbsp;|&nbsp; <a href="apps/hub/">Hub</a> &nbsp;|&nbsp; <a href="../holo-os/README.md">Hologram OS</a> &nbsp;|&nbsp; <a href="https://discord.gg/ZwuZaNyuve">Community</a>
+</p>
+
+<p align="center">
+  <a href="../holo-os/README.md"><img src="https://img.shields.io/badge/Runs%20on-Hologram%20OS-7DEFC9?style=for-the-badge" alt="Runs on Hologram OS"></a>
+  <a href="#what-makes-them-different"><img src="https://img.shields.io/badge/100%25-serverless-5B8CFF?style=for-the-badge" alt="100% serverless"></a>
+  <a href="#build-your-own"><img src="https://img.shields.io/badge/Free%20to-build%20%26%20share-3FB950?style=for-the-badge" alt="Free to build and share"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-3FB950?style=for-the-badge" alt="License MIT"></a>
+  <a href="https://uor.foundation/"><img src="https://img.shields.io/badge/Built%20with-UOR%20Foundation-C77BF
 The UOR Foundation modeled with PrismPM: a non-profit dedicated to the
 democratization of technology. The model is defined and validated against
 explicitly adopted standards; its outputs are the views, artifacts, and
