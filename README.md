@@ -10,8 +10,8 @@
   <a href="#build-your-own"><img src="https://img.shields.io/badge/Free%20to-build%20%26%20share-3FB950?style=for-the-badge" alt="Free to build and share"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-3FB950?style=for-the-badge" alt="License MIT"></a>
   <a href="https://uor.foundation/"><img src="https://img.shields.io/badge/Built%20with-UOR%20Foundation-C77BF                           
-
-<p    
+</p>
+<p 
 The UOR Foundation modeled with PrismPM: a non-profit dedicated to the
 democratization of technology. The model is defined and validated against
 explicitly adopted standards; its outputs are the views, artifacts, and
